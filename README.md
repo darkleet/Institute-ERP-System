@@ -9,6 +9,8 @@ The faculty and students can login using their login credentials. The faculty ca
 
 ●	Languages used: HTML, CSS, JavaScript, SQL, PHP
 ●	Web Server: XAMPP(apache server and MySQL DB)
+
+
 ●	Web Browser: Google Chrome/Mozilla Firefox
 ●	Operating System: Windows, Linux
 
